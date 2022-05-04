@@ -1,0 +1,5 @@
+{"intents": [
+    {"tag": "greetings",
+    "patterns": ["hello", "hi", "sup", "good day", "what's up", "how's it going", "how is it going", "wats up", "nihao", "konichiwa", "annyeong"],
+    "responses": ["Hello!", "What can I do for you?", "Hey!", "Greetings!"]}
+]}
